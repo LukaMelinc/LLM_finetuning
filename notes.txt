@@ -1,1 +1,6 @@
+Source of the first template
 https://dassum.medium.com/fine-tune-large-language-model-llm-on-a-custom-dataset-with-qlora-fb60abdeba07
+
+Source of the second template
+https://www.youtube.com/watch?v=iOdFUJiB0Zc&t=8571s
+
